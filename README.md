@@ -31,7 +31,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=github,javascript,express,flutter,dart,firebase,c" /><br>
-    <img src="https://skillicons.dev/icons?i=bootstrap,mui,mysql,sqlserver,flask,html,css,vscode,git" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,mui,mysql,sql server,flask,html,css,vscode,git" />
 </div>
 
 <br/>
