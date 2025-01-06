@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Abdulrahman Al-doais ... I am a web developer and mobile app developer.</h2>
+<h2 align="left">  My name is Abdulrahman Al-doais ... I am a web developer.</h2>
 
 ###
 
