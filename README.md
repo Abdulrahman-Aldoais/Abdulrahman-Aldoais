@@ -40,8 +40,7 @@
   </a>
     <h3>My GitHub contributions summary</h3>
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Abdulrahman-Aldoais\&show_icons=true\&theme=dark#gh-dark-mode-only)] 
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Abdulrahman-Aldoais\&show_icons=true\&theme=default#gh-light-mode-only)] 
+ [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Abdulrahman-Aldoais\&show_icons=true\&theme=default#gh-light-mode-only)] 
 
 </div>
  
